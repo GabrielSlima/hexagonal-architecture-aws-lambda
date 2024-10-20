@@ -9,4 +9,4 @@
 - Outboud ports defines how the application communicate with external systems and components
 
 ## concept and patterns from DDD
-Aggregates, entities, value objects, policies, services and factories
+Aggregates, entities, value objects, policies, services and 
